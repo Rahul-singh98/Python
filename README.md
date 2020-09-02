@@ -10,6 +10,7 @@ Python learning guide for absolute beginers
 
 
 ### Conditions and loops :- 
-```Basics of conditions like `if/else` ,`if/elif/else` statements and looping `while` ,`for` 
+```
+Basics of conditions like `if/else` , `if/elif/else` statements and looping `while` , `for` 
 loops in python
 ```
