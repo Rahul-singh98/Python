@@ -7,3 +7,9 @@ Python learning guide for absolute beginers
 
 ### Datatypes (Mutable and immutable) :- 
 	Detailed description about the mutable and immutable datatypes with example
+
+
+### Conditions and loops :- 
+'''
+	Basics of conditions like 'if/else'  ,'if/elif/else' statements and looping 'while' , 'for' loops in python
+'''
