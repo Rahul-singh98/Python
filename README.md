@@ -1,4 +1,4 @@
-Python learning guide for absolute beginers
+# Learn Python from Beginning.
 
 ### Introduction.ipynb :- Basic introduction of the python.
 	This file contains the introduction about ,
@@ -10,15 +10,20 @@ Python learning guide for absolute beginers
 
 
 ### Conditions and loops :- 
-```
-Basics of conditions like `if/else` , `if/elif/else` statements and looping `while` , `for` 
-loops in python.
-```
+    Basics of conditions like `if/else` , `if/elif/else` statements and looping `while` , `for` 
+    loops in python.
 
 ### Classes :- 
-```
-Basic Concepts of Obeject Oriented Programming and Classes in python.
-```
+    Basic Concepts of Obeject Oriented Programming and Classes in python.
+
+### Modules :-
+    What are modules and packages are defined here.
+    
+### JSON:-
+    Convert JSON file to python or python file to JSON.
+    
+### regEX:-
+    What regex is ? It is defined here with examples.
 
 <hr>
 <p align="center">
