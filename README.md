@@ -24,7 +24,19 @@
     
 ### regEX:-
     What regex is ? It is defined here with examples.
+    
+### pip
+    What is pip ? 
+    Install python packages using pip.
+    How to use pip command in jupyter notebook.
 
+### Exception
+    How to handle Exceptions ?
+    try and catch statement
+    
+### UserInput
+    How to take Inputs from the user
+    
 <hr>
 <p align="center">
   <i>Connect With me.</i>
