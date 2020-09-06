@@ -5,38 +5,52 @@
 	print function , help function , dir function , and little bit about commenting in python
 	also keywords , datatypes , operators , and assert function in python.
 
-### Datatypes (Mutable and immutable) :- 
+### [Datatypes (Mutable and immutable)](https://github.com/Rahul-singh98/Python/blob/master/Python/Datatypes%20(Mutable%20and%20Immutable).ipynb) :- 
 	Detailed description about the mutable and immutable datatypes with example.
 
 
-### Conditions and loops :- 
+### [Conditions and loops](https://github.com/Rahul-singh98/Python/blob/master/Python/Conditions%20and%20loops.ipynb) :- 
     Basics of conditions like `if/else` , `if/elif/else` statements and looping `while` , `for` 
     loops in python.
 
-### Classes :- 
+### [Classes](https://github.com/Rahul-singh98/Python/blob/master/Python/Classes.ipynb) :- 
     Basic Concepts of Obeject Oriented Programming and Classes in python.
 
-### Modules :-
+### [Modules](https://github.com/Rahul-singh98/Python/blob/master/Python/module.ipynb) :-
     What are modules and packages are defined here.
     
-### JSON:-
+### [JSON](https://github.com/Rahul-singh98/Python/blob/master/Python/JSON.ipynb):-
     Convert JSON file to python or python file to JSON.
     
-### regEX:-
+### [regEX](https://github.com/Rahul-singh98/Python/blob/master/Python/regEx.ipynb):-
     What regex is ? It is defined here with examples.
     
-### pip
+### [pip](https://github.com/Rahul-singh98/Python/blob/master/Python/pip.ipynb)
     What is pip ? 
     Install python packages using pip.
     How to use pip command in jupyter notebook.
 
-### Exception
+### [Exception](https://github.com/Rahul-singh98/Python/blob/master/Python/Exception.ipynb)
     How to handle Exceptions ?
     try and catch statement
     
-### UserInput
+### [UserInput](https://github.com/Rahul-singh98/Python/blob/master/Python/UserInput.ipynb)
     How to take Inputs from the user
     
+### [Filehandling](https://github.com/Rahul-singh98/Python/blob/master/Python/File_handling.ipynb)
+    File handling in Python.
+    --> File Creation
+    --> File Deletion
+    --> File Management
+    --> Read Files
+    etc
+    
+### [Docstring](https://github.com/Rahul-singh98/Python/blob/master/Python/docstring.ipynb)
+    Docstrings in python. How to describe functions or say documentation in python
+    
+### [Logic Gates](https://github.com/Rahul-singh98/Python/blob/master/Python/LogicGates.ipynb)
+    Logic Gates in python. How to use logic gates in python
+
 <hr>
 <p align="center">
   <i>Connect With me.</i>
