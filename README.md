@@ -50,7 +50,12 @@
     
 ### [Logic Gates](https://github.com/Rahul-singh98/Python/blob/master/Python/LogicGates.ipynb)
     Logic Gates in python. How to use logic gates in python
+    
+### [Itertools](https://github.com/Rahul-singh98/Python/blob/master/Python/itertools.ipynb)
+    Here , get to know about what are itertools , which library is used to use iter tools etc
 
+### [Decorators](https://github.com/Rahul-singh98/Python/blob/master/Python/decorator.ipynb)
+    Here , get to know about what are Decorators in python , and how to use them.
 <hr>
 <p align="center">
   <i>Connect With me.</i>
